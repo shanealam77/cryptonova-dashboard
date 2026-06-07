@@ -1,0 +1,8 @@
+{
+  "name": "CryptoNova Dashboard",
+  "description": "A premium deep tech blue crypto portfolio and analytics dashboard, featuring market analytics, wallet insights, and transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
